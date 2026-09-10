@@ -31,22 +31,33 @@
 
 ```typescript
 const ariel = {
-  name:      "Ariel Alfath",
-  role:      "Fullstack Developer",
-  location:  "Samarinda, Indonesia 🇮🇩",
+  name:     "Ariel Alfath",
+  role:     "Fullstack Developer",
+  location: "Samarinda, Indonesia 🇮🇩",
+  motto:    "Code, Collaborate, and Conquer Challenges.",
 
-  buildingNow: [
-    "🚑 Siamdakes — staff data management, Samarinda Health Dept.",
-    "🎓 LMS Auto-Scoring — auto-grading LMS secured by blockchain",
-    "🎁 Custom Hampers & Love AI — design hampers, ask AI about love",
+  focus: {
+    backend:  ["Laravel", "Node.js", "Python"],
+    frontend: ["Next.js", "React", "TailwindCSS"],
+    exploring:["AI / Auto-Scoring", "Blockchain", "IoT"],
+  },
+
+  currently: {
+    building: "systems that turn messy data into decisions",
+    learning: ["AHP with Python", "Web3", "Advanced Next.js"],
+    reading:  "docs at 2am, again",
+  },
+
+  askMeAbout: [
+    "Backend architecture & database design",
+    "Laravel and Next.js in production",
+    "Stocks, crypto, and where tech is heading",
+    "Picking a tech stack without regret",
   ],
 
-  learning:   ["AHP with Python", "Auto-Scoring AI", "Blockchain"],
-  wantHelp:   ["Web3", "Advanced JavaScript / Next.js"],
-  collabOn:   ["Smart Robots & IoT", "Web Development"],
-  askMeAbout: ["Backend Architecture", "Stocks & Crypto", "Tech Stack Tips"],
+  openTo: ["Collaboration", "Freelance", "Smart Robots & IoT"],
 
-  funFacts: {
+  offTheClock: {
     fuel:   "🍵 matcha, always",
     game:   "🎮 Mobile Legends rank grinder",
     escape: "🏖️ beach + sunset > everything",
@@ -55,58 +66,6 @@ const ariel = {
 ```
 
 <br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" />
-
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚑 Siamdakes
-> Staff data management system affiliated with the **Samarinda Health Department**. Employee records, roles, and reporting in one place.
-
-`Laravel` `MySQL` `Livewire` `TailwindCSS`
-
-<a href="https://github.com/ArielWebDev?tab=repositories"><img src="https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 LMS Auto-Scoring
-> Learning Management System with **automatic grading** and blockchain-backed record integrity.
-
-`Next.js` `Python` `AI` `Blockchain`
-
-<a href="https://github.com/ArielWebDev?tab=repositories"><img src="https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎁 Custom Hampers & Love AI
-> Design your own hampers, then consult an AI about matters of the heart. Fun meets commerce.
-
-`React` `Node.js` `Express` `AI API`
-
-<a href="https://github.com/ArielWebDev?tab=repositories"><img src="https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AHP Decision Engine
-> Analytic Hierarchy Process in Python for multi-criteria decision making and weighted scoring.
-
-`Python` `NumPy` `Pandas` `Matplotlib`
-
-<a href="https://github.com/ArielWebDev?tab=repositories"><img src="https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" />
 
@@ -214,48 +173,11 @@ const ariel = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🌐 Portfolio
-
-<a href="https://arielalfath.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-<a href="https://arielalfath.vercel.app/">
-  <img src="https://api.microlink.io/?url=https://arielalfath.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark" width="100%" />
-</a>
-
-<sub>Live preview of my site</sub>
-
-</td>
-<td align="center" width="50%">
-
-### 📸 Instagram
-
-<a href="https://instagram.com/arielalfth">
-  <img src="https://img.shields.io/badge/@arielalfth-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-<a href="https://instagram.com/arielalfth">
-  <img src="https://api.microlink.io/?url=https://instagram.com/arielalfth&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark" width="100%" />
-</a>
-
-<sub>Behind the code: matcha, beaches, ML rank</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
+<a href="https://arielalfath.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://instagram.com/arielalfth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://tiktok.com/@ariellfath"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117" /></a>
+<!-- TODO: ganti LINKEDIN_USERNAME kalau akun sudah dibuat -->
+<a href="https://linkedin.com/in/LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://github.com/ArielWebDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 <a href="mailto:nazrielrahman5940@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 
