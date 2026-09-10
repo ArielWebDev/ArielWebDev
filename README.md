@@ -88,7 +88,7 @@ I build systems that turn messy data into something people can actually decide w
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" />
 
-<!-- ═══════════════════ 3D + ACTIVITY ═══════════════════ -->
+<!-- ═══════════════════ 3D + SNAKE ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> &nbsp;3D Contribution Calendar
 
 <div align="center">
@@ -106,14 +106,6 @@ I build systems that turn messy data into something people can actually decide w
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArielWebDev/ArielWebDev/output/github-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ArielWebDev/ArielWebDev/output/github-snake.svg" width="100%" />
 </picture>
-
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArielWebDev&bg_color=0D1117&color=06B6D4&line=8A2BE2&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
