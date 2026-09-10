@@ -27,45 +27,31 @@
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> &nbsp;About Me
 
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" />
+<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" />
 
-```typescript
-const ariel = {
-  name:     "Ariel Alfath",
-  role:     "Fullstack Developer",
-  location: "Samarinda, Indonesia 🇮🇩",
-  motto:    "Code, Collaborate, and Conquer Challenges.",
+**Fullstack developer** from Samarinda, Indonesia 🇮🇩
 
-  focus: {
-    backend:  ["Laravel", "Node.js", "Python"],
-    frontend: ["Next.js", "React", "TailwindCSS"],
-    exploring:["AI / Auto-Scoring", "Blockchain", "IoT"],
-  },
+I build systems that turn messy data into something people can actually decide with — mostly on **Laravel** and **Next.js**, with a growing detour into AI, blockchain, and things that blink on a breadboard.
 
-  currently: {
-    building: "systems that turn messy data into decisions",
-    learning: ["AHP with Python", "Web3", "Advanced Next.js"],
-    reading:  "docs at 2am, again",
-  },
+<br/>
 
-  askMeAbout: [
-    "Backend architecture & database design",
-    "Laravel and Next.js in production",
-    "Stocks, crypto, and where tech is heading",
-    "Picking a tech stack without regret",
-  ],
-
-  openTo: ["Collaboration", "Freelance", "Smart Robots & IoT"],
-
-  offTheClock: {
-    fuel:   "🍵 matcha, always",
-    game:   "🎮 Mobile Legends rank grinder",
-    escape: "🏖️ beach + sunset > everything",
-  },
-};
-```
+> 🎯 &nbsp;**Focus** &nbsp;·&nbsp; Backend architecture, database design, and clean fullstack delivery
+>
+> 🌱 &nbsp;**Learning** &nbsp;·&nbsp; AHP with Python &nbsp;·&nbsp; Web3 &nbsp;·&nbsp; Advanced Next.js
+>
+> 💬 &nbsp;**Ask me about** &nbsp;·&nbsp; Laravel & Next.js in production, picking a stack without regret, stocks & crypto
+>
+> 🤝 &nbsp;**Open to** &nbsp;·&nbsp; Collaboration &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; Smart Robots & IoT
+>
+> ⚡ &nbsp;**Off the clock** &nbsp;·&nbsp; 🍵 matcha always &nbsp;·&nbsp; 🎮 Mobile Legends rank grind &nbsp;·&nbsp; 🏖️ beach at sunset
 
 <br clear="right"/>
+
+<div align="center">
+
+*"Code, Collaborate, and Conquer Challenges."*
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" />
 
@@ -97,27 +83,6 @@ const ariel = {
 **IoT & Emerging**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,solidity&theme=dark" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" />
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArielWebDev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=06B6D4&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0D1117" />
-<img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielWebDev&hide_border=true&background=0D1117&stroke=8A2BE2&ring=06B6D4&fire=8A2BE2&currStreakLabel=06B6D4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-
-<br/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielWebDev&layout=compact&langs_count=10&count_private=true&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0D1117" />
-<img width="52%" src="https://github-contributor-stats.vercel.app/api?username=ArielWebDev&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArielWebDev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
