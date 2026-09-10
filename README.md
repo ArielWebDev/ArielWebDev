@@ -85,7 +85,11 @@ I build systems that turn messy data into something people can actually decide w
 
 ```txt
 <!--START_SECTION:waka-->
-Waiting for the first WakaTime sync.
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ```
 
