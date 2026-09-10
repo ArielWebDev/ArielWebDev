@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" fill="none" role="img" aria-label="Ariel Alfath — Fullstack Developer">
+  <title>Ariel Alfath — Fullstack Developer</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#11151f"/>
+      <stop offset="100%" stop-color="#0b0f16"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="50%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.75"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="orbA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8A2BE2" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#2dd4ff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="card">
+      <rect x="0" y="0" width="1000" height="260" rx="16"/>
+    </clipPath>
+
+    <mask id="sweepMask">
+      <rect x="0" y="0" width="1000" height="260" fill="#000"/>
+      <rect x="-420" y="0" width="420" height="260" fill="url(#sweep)">
+        <animate attributeName="x" from="-420" to="1000" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <style>
+    .name  { font: 800 60px 'Segoe UI', Inter, system-ui, -apple-system, sans-serif; letter-spacing: 1.5px; }
+    .role  { font: 600 21px 'JetBrains Mono', 'Cascadia Code', ui-monospace, monospace; }
+    .meta  { font: 500 13px 'JetBrains Mono', 'Cascadia Code', ui-monospace, monospace; }
+    .dim   { fill: #8b949e; }
+    .caret { animation: blink 1.05s steps(1) infinite; }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    .rise  { animation: rise .9s cubic-bezier(.2,.7,.3,1) both; }
+    .d1 { animation-delay: .05s } .d2 { animation-delay: .22s } .d3 { animation-delay: .4s }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+
+    <!-- ambient orbs -->
+    <ellipse cx="180" cy="70" rx="260" ry="180" fill="url(#orbA)">
+      <animate attributeName="cx" values="180;320;180" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="70;120;70" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="860" cy="200" rx="280" ry="190" fill="url(#orbB)">
+      <animate attributeName="cx" values="860;720;860" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="200;150;200" dur="13s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- top accent rule -->
+    <rect x="0" y="0" width="1000" height="3" fill="url(#accent)"/>
+
+    <!-- content -->
+    <g transform="translate(56, 0)">
+      <text class="meta dim rise d1" x="4" y="72">$ whoami</text>
+
+      <text class="name rise d2" x="0" y="132" fill="#e6edf3">ARIEL ALFATH</text>
+      <text class="name" x="0" y="132" fill="url(#sweep)" mask="url(#sweepMask)">ARIEL ALFATH</text>
+
+      <g class="rise d3">
+        <text class="role" x="2" y="176" fill="#06B6D4">Fullstack Developer</text>
+        <text class="role dim" x="215" y="176">·</text>
+        <text class="role" x="234" y="176" fill="#8A2BE2">AI</text>
+        <text class="role dim" x="266" y="176">·</text>
+        <text class="role" x="285" y="176" fill="#4F46E5">Blockchain</text>
+        <rect class="caret" x="425" y="159" width="11" height="22" fill="#06B6D4"/>
+      </g>
+
+      <text class="meta dim rise d3" x="4" y="214">Code · Collaborate · Conquer Challenges</text>
+      <text class="meta dim rise d3" x="4" y="234">Samarinda, Indonesia</text>
+    </g>
+
+    <!-- bottom accent rule -->
+    <rect x="0" y="257" width="1000" height="3" fill="url(#accent)" opacity="0.65"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="259" rx="16" fill="none" stroke="#30363d" stroke-opacity="0.7"/>
+</svg>
