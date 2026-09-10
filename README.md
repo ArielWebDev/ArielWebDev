@@ -83,7 +83,6 @@ I build systems that turn messy data into something people can actually decide w
 <!-- ═══════════════════ WAKATIME ═══════════════════ -->
 ## <img src="./assets/icon-waka.svg" width="24" align="center" /> &nbsp;Coding Time
 
-```txt
 <!--START_SECTION:waka-->
 
 ```txt
@@ -91,7 +90,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-```
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
