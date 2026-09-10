@@ -18,19 +18,29 @@
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 ## <img src="./assets/icon-about.svg" width="24" align="center" /> &nbsp;About Me
 
+<div align="center">
+
+<img width="100%" src="./assets/about.svg" alt="About Ariel" />
+
+</div>
+
 **Fullstack developer** from Samarinda, Indonesia 🇮🇩
 
-I build systems that turn messy data into something people can actually decide with — mostly on **Laravel** and **Next.js**, with a growing detour into AI, blockchain, and things that blink on a breadboard.
+Studying at **Universitas Muhammadiyah Kalimantan Timur**, where I also work as a **Teaching Assistant** and **Lab Assistant** — which mostly means explaining the same pointer bug in six different ways until it clicks. The rest of my time goes to building systems that turn messy data into something people can actually decide with, mostly on **Laravel** and **Next.js**.
 
+> 🎓 &nbsp;**Campus** &nbsp;·&nbsp; UMKT — Teaching Assistant &amp; Lab Assistant
+>
 > 🎯 &nbsp;**Focus** &nbsp;·&nbsp; Backend architecture, database design, and clean fullstack delivery
 >
 > 🌱 &nbsp;**Learning** &nbsp;·&nbsp; AHP with Python &nbsp;·&nbsp; Web3 &nbsp;·&nbsp; Advanced Next.js
 >
-> 💬 &nbsp;**Ask me about** &nbsp;·&nbsp; Laravel & Next.js in production, picking a stack without regret, stocks & crypto
+> 💬 &nbsp;**Ask me about** &nbsp;·&nbsp; Laravel &amp; Next.js in production, picking a stack without regret, stocks &amp; crypto
 >
-> 🤝 &nbsp;**Open to** &nbsp;·&nbsp; Collaboration &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; Smart Robots & IoT
+> 🤝 &nbsp;**Open to** &nbsp;·&nbsp; Collaboration &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; Smart Robots &amp; IoT
 >
-> ⚡ &nbsp;**Off the clock** &nbsp;·&nbsp; 🍵 matcha always &nbsp;·&nbsp; 🎮 Mobile Legends rank grind &nbsp;·&nbsp; 🏖️ beach at sunset
+> ☕ &nbsp;**Fueled by** &nbsp;·&nbsp; Coffee, always &nbsp;·&nbsp; 🍛 nasi goreng &nbsp;·&nbsp; 🍗 KFC
+>
+> ⚡ &nbsp;**Off the clock** &nbsp;·&nbsp; 🎮 Mobile Legends rank grind &nbsp;·&nbsp; 🏖️ beach at sunset
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
