@@ -96,7 +96,8 @@ Studying at **Universitas Muhammadiyah Kalimantan Timur**, where I also work as 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   6 mins                █████████████░░░░░░░░░░░░   52.58 %
+YAML       5 mins                ████████████░░░░░░░░░░░░░   47.42 %
 ```
 
 <!--END_SECTION:waka-->
