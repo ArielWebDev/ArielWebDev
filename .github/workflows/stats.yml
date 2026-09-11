@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - "scripts/generate-stats.mjs"
+      - "scripts/generate-*.mjs"
       - ".github/workflows/stats.yml"
 
 concurrency:
@@ -33,13 +33,20 @@ jobs:
           LOGIN: ${{ github.repository_owner }}
         run: node scripts/generate-stats.mjs
 
+      - name: Generate commit-langs.svg
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          LOGIN: ${{ github.repository_owner }}
+          DAYS: "30"
+        run: node scripts/generate-commit-langs.mjs
+
       - name: Commit generated card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg
+          git add assets/stats.svg assets/commit-langs.svg
           git diff --staged --quiet && echo "no changes" && exit 0
-          git commit -m "chore: update stats card"
+          git commit -m "chore: update stats cards"
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash origin main && git push && exit 0
             echo "push attempt $i failed, retrying..."

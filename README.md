@@ -91,6 +91,18 @@ Studying at **Universitas Muhammadiyah Kalimantan Timur**, where I also work as 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════ WAKATIME ═══════════════════ -->
+## <img src="./assets/icon-stats.svg" width="24" align="center" /> &nbsp;What I Actually Commit
+
+<div align="center">
+
+<img width="100%" src="./assets/commit-langs.svg" alt="Languages committed in the last 30 days" />
+
+<sub>Lines added and removed per language across every repo I own — private ones included.</sub>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## <img src="./assets/icon-waka.svg" width="24" align="center" /> &nbsp;Coding Time
 
 <!--START_SECTION:waka-->
