@@ -108,12 +108,12 @@ Studying at **Universitas Muhammadiyah Kalimantan Timur**, where I also work as 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 59 mins          ████████████▒░░░░░░░░░░░░   49.44 %
-Markdown     59 mins               ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-PHP          32 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-JSON         17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-HTML         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-YAML         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript   1 hr 19 mins          ████████████████▒░░░░░░░░   65.90 %
+JSON         17 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+PHP          9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Markdown     6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+YAML         5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+HTML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
