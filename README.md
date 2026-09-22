@@ -108,9 +108,8 @@ Studying at **Universitas Muhammadiyah Kalimantan Timur**, where I also work as 
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     41 mins               ██████████████░░░░░░░░░░░   55.81 %
-Other    32 mins               ███████████░░░░░░░░░░░░░░   43.98 %
-Python   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+HTML    41 mins               ██████████████░░░░░░░░░░░   55.93 %
+Other   32 mins               ███████████░░░░░░░░░░░░░░   44.07 %
 ```
 
 <!--END_SECTION:waka-->
