@@ -34,15 +34,15 @@
 
     
     <g class="rise" style="animation-delay:0.08s">
-      <text x="64" y="118" class="stat-num" fill="#06B6D4">690</text>
+      <text x="64" y="118" class="stat-num" fill="#06B6D4">699</text>
       <text x="64" y="140" class="stat-label">Contributions (1y)</text>
     </g>
     <g class="rise" style="animation-delay:0.15000000000000002s">
-      <text x="290" y="118" class="stat-num" fill="#8A2BE2">477</text>
+      <text x="290" y="118" class="stat-num" fill="#8A2BE2">479</text>
       <text x="290" y="140" class="stat-label">Commits</text>
     </g>
     <g class="rise" style="animation-delay:0.22000000000000003s">
-      <text x="452" y="118" class="stat-num" fill="#4F46E5">63</text>
+      <text x="452" y="118" class="stat-num" fill="#4F46E5">66</text>
       <text x="452" y="140" class="stat-label">Pull Requests</text>
     </g>
     <g class="rise" style="animation-delay:0.29000000000000004s">
@@ -65,17 +65,17 @@
       <text x="640" y="96" class="lang-name">JavaScript</text>
       <text x="890" y="96" class="lang-pct" text-anchor="end">35.5%</text>
       <rect x="640" y="104" width="250" height="7" rx="3.5" fill="#21262d"/>
-      <rect x="640" y="104" width="88.81987800727035" height="7" rx="3.5" fill="#f1e05a">
-        <animate attributeName="width" from="0" to="88.81987800727035" dur="1.1s" fill="freeze"
+      <rect x="640" y="104" width="88.74371192342088" height="7" rx="3.5" fill="#f1e05a">
+        <animate attributeName="width" from="0" to="88.74371192342088" dur="1.1s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.7 0.3 1" begin="0.5s"/>
       </rect>
     </g>
     <g class="rise" style="animation-delay:0.58s">
       <text x="640" y="130" class="lang-name">CSS</text>
-      <text x="890" y="130" class="lang-pct" text-anchor="end">25.5%</text>
+      <text x="890" y="130" class="lang-pct" text-anchor="end">25.4%</text>
       <rect x="640" y="138" width="250" height="7" rx="3.5" fill="#21262d"/>
-      <rect x="640" y="138" width="63.64393510175394" height="7" rx="3.5" fill="#663399">
-        <animate attributeName="width" from="0" to="63.64393510175394" dur="1.1s" fill="freeze"
+      <rect x="640" y="138" width="63.589358250195154" height="7" rx="3.5" fill="#663399">
+        <animate attributeName="width" from="0" to="63.589358250195154" dur="1.1s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.7 0.3 1" begin="0.58s"/>
       </rect>
     </g>
@@ -83,8 +83,8 @@
       <text x="640" y="164" class="lang-name">TypeScript</text>
       <text x="890" y="164" class="lang-pct" text-anchor="end">11.2%</text>
       <rect x="640" y="172" width="250" height="7" rx="3.5" fill="#21262d"/>
-      <rect x="640" y="172" width="28.072026952156282" height="7" rx="3.5" fill="#3178c6">
-        <animate attributeName="width" from="0" to="28.072026952156282" dur="1.1s" fill="freeze"
+      <rect x="640" y="172" width="28.047954228722816" height="7" rx="3.5" fill="#3178c6">
+        <animate attributeName="width" from="0" to="28.047954228722816" dur="1.1s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.7 0.3 1" begin="0.66s"/>
       </rect>
     </g>
@@ -92,8 +92,8 @@
       <text x="640" y="198" class="lang-name">PHP</text>
       <text x="890" y="198" class="lang-pct" text-anchor="end">10.4%</text>
       <rect x="640" y="206" width="250" height="7" rx="3.5" fill="#21262d"/>
-      <rect x="640" y="206" width="25.893289331567072" height="7" rx="3.5" fill="#4F5D95">
-        <animate attributeName="width" from="0" to="25.893289331567072" dur="1.1s" fill="freeze"
+      <rect x="640" y="206" width="26.00750791931379" height="7" rx="3.5" fill="#4F5D95">
+        <animate attributeName="width" from="0" to="26.00750791931379" dur="1.1s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.7 0.3 1" begin="0.74s"/>
       </rect>
     </g>
@@ -101,8 +101,8 @@
       <text x="640" y="232" class="lang-name">HTML</text>
       <text x="890" y="232" class="lang-pct" text-anchor="end">5.7%</text>
       <rect x="640" y="240" width="250" height="7" rx="3.5" fill="#21262d"/>
-      <rect x="640" y="240" width="14.278778216068147" height="7" rx="3.5" fill="#e34c26">
-        <animate attributeName="width" from="0" to="14.278778216068147" dur="1.1s" fill="freeze"
+      <rect x="640" y="240" width="14.266533675282085" height="7" rx="3.5" fill="#e34c26">
+        <animate attributeName="width" from="0" to="14.266533675282085" dur="1.1s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.7 0.3 1" begin="0.8200000000000001s"/>
       </rect>
     </g>
@@ -110,13 +110,13 @@
       <text x="640" y="266" class="lang-name">Python</text>
       <text x="890" y="266" class="lang-pct" text-anchor="end">4.8%</text>
       <rect x="640" y="274" width="250" height="7" rx="3.5" fill="#21262d"/>
-      <rect x="640" y="274" width="12.119900883670008" height="7" rx="3.5" fill="#3572A5">
-        <animate attributeName="width" from="0" to="12.119900883670008" dur="1.1s" fill="freeze"
+      <rect x="640" y="274" width="12.109507654049974" height="7" rx="3.5" fill="#3572A5">
+        <animate attributeName="width" from="0" to="12.109507654049974" dur="1.1s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.7 0.3 1" begin="0.9s"/>
       </rect>
     </g>
 
-    <text x="64" y="272" class="foot">private repositories included · updated 2026-10-02</text>
+    <text x="64" y="272" class="foot">private repositories included · updated 2026-10-03</text>
   </g>
 
   <rect x="0.5" y="0.5" width="999" height="299" rx="16" fill="none" stroke="#30363d" stroke-opacity="0.7"/>
