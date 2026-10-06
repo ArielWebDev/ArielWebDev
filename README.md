@@ -108,12 +108,12 @@ Studying at **Universitas Muhammadiyah Kalimantan Timur**, where I also work as 
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      6 hrs 39 mins         ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-Python                     6 hrs 25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-JavaScript                 5 hrs 55 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-TypeScript                 2 hrs 56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Markdown                   2 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-PHP                        2 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+JavaScript                 5 hrs 49 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Python                     5 hrs 23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+TypeScript                 2 hrs 56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Other                      2 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Markdown                   1 hr 59 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+PHP                        1 hr 50 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 ```
 
 <!--END_SECTION:waka-->
