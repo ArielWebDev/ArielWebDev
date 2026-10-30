@@ -1,7 +1,7 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Ariel Alfath — Fullstack Developer" />
+<img width="100%" src="./assets/hero.svg" alt="Nazriel Rahman Al’Fath — AI Developer · Software Engineer · UI/UX" />
 
 <br/><br/>
 
